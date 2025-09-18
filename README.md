@@ -1,3 +1,10 @@
+[![Add to Cursor](https://fastmcp.me/badges/cursor_dark.svg)](https://fastmcp.me/MCP/Details/1088/visa-acceptance)
+[![Add to VS Code](https://fastmcp.me/badges/vscode_dark.svg)](https://fastmcp.me/MCP/Details/1088/visa-acceptance)
+[![Add to Claude](https://fastmcp.me/badges/claude_dark.svg)](https://fastmcp.me/MCP/Details/1088/visa-acceptance)
+[![Add to ChatGPT](https://fastmcp.me/badges/chatgpt_dark.svg)](https://fastmcp.me/MCP/Details/1088/visa-acceptance)
+[![Add to Codex](https://fastmcp.me/badges/codex_dark.svg)](https://fastmcp.me/MCP/Details/1088/visa-acceptance)
+[![Add to Gemini](https://fastmcp.me/badges/gemini_dark.svg)](https://fastmcp.me/MCP/Details/1088/visa-acceptance)
+
 # Visa Acceptance Agent Toolkit
 
 The Visa Acceptance Agent Toolkit seamlessly integrates with Vercel's AI SDK and the Model Context Protocol (MCP) for Visa Acceptance APIs. It offers a specialized set of tools designed to help you manage invoices, create payment links, and perform other Visa Acceptance-related operations.
